@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+nltk
+joblib
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+openai
+watchdog
