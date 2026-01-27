@@ -50,7 +50,7 @@ graph TD
 
 ### 1. Clone & Setup Environment
 ```bash
-git clone https://github.com/yourusername/VibeCheck.git
+git clone https://github.com/XXXVIIMMI/VibeCheck.git
 cd VibeCheck
 
 # Using Conda
